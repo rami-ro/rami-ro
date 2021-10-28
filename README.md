@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rami-ro
-- 👀 I’m interested in connecting with the best blockchain developers on this planet 
+- 👀 I’m interested in connecting with the best blockchain developers on this planet (or the moon if you're already there).
 - 📫 How to reach me: ramiro@freeflow.team
 
 <!---
