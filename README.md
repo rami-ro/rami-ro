@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rami-ro
-- 👀 I’m interested in connecting with the best blockchain developers on this planet (or the moon if you're already there).
-- 📫 How to reach me: ramiro@freeflow.team
+- 👀 Non-technical coder 
+- 📫 How to reach me: ramiro@gedd.it
 
 <!---
 rami-ro/rami-ro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
