@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rami-ro
-- 👀 Non-technical coder 
+- 👀 Non-technically doing things
 - 📫 How to reach me: ramiro@gedd.it
 
 <!---
